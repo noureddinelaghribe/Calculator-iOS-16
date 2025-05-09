@@ -2,6 +2,14 @@
 
 A simple Android calculator app built with Java that mimics the functionality of the iOS calculator. The app supports basic arithmetic operations, a user-friendly interface, and a responsive layout for various screen sizes. This app is ideal for users who want a clean and intuitive calculator experience on Android devices.
 
+## Download
+
+<p align="center">
+    <a href="https://github.com/noureddinelaghribe/Calculator-iOS-16/raw/refs/heads/main/app/release/app-release.apk">
+        <img src="https://raw.githubusercontent.com/noureddinelaghribe/WriteFlow/refs/heads/main/download_apk.png" alt="Get it on Google Play" height="80">
+    </a>
+</p>
+
 ## Screenshots
 
 Here are some screenshots of the IOS Calculator App for Android app:
